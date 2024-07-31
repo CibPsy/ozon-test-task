@@ -30,4 +30,4 @@
 
 ## Схема приготовления яичницы
 
-![fried-eggs-scheme](../_assets/fried-eggs-scheme.svg)
+![fried-eggs-scheme](../_assets/fried-eggs-scheme.jpg)
